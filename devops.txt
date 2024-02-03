@@ -1,0 +1,3 @@
+working with git ignore here
+for stash
+Developing is going on in this file
