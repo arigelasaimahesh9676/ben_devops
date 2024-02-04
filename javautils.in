@@ -4,5 +4,9 @@
 #This is edited again
 #Javautils.in`
 #This is edited file
+<<<<<<< Updated upstream
 #Added dummy data!!
 #this is 
+=======
+this is the fresh line
+>>>>>>> Stashed changes
